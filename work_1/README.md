@@ -13,3 +13,4 @@
     - terminal.jpg
     - `README.md`
 - `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg
+- ![terminal](https://github.com/user-attachments/assets/6149b69e-7f42-4958-8220-197c1a1b8ca3)
