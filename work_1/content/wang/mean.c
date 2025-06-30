@@ -12,9 +12,7 @@ int main(){
     FILE *input_file=fopen("input.txt","w");
     for(int i=0;i<5;i++){
         fprintf(input_file,"%d",random_numbers[i]);
-        if(i<4){
-            fprintf(input_file," ");
-        }
+        fprintf(input_file," ");
     }
     fclose(input_file);
     for(int i=0;i<5;i++){
