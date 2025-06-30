@@ -23,7 +23,7 @@ int main(){
         sum+=random_numbers[j];
     }
     float mean=0;
-    mean=sum/5;
+    mean=sum/5.0f;
     printf("%f",mean);
-    printf("%f",sum);
+    printf("%d",sum);
 }
