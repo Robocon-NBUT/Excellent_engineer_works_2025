@@ -50,6 +50,7 @@ int main()
     
     ofstream outputFile("output.txt");
     outputFile << n << endl;
+    cout << n <<endl;
     outputFile.close();
 
     return 0;
