@@ -12,4 +12,4 @@
     - input.txt , output.txt
     - terminal.jpg
     - `README.md`
-- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg
+- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg![Uploading 董文铭.jpg…]()
