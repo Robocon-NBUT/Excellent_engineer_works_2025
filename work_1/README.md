@@ -12,4 +12,4 @@
     - input.txt , output.txt
     - terminal.jpg
     - `README.md`
-- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg
+- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg![微信图片_20250706142520](https://github.com/user-attachments/assets/101ea414-bb5b-4dd8-92b3-b930bdcbd3da)
