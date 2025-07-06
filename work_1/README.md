@@ -13,5 +13,5 @@
     - terminal.jpg
     - `README.md`
 - `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg
-- ![source1](https://github.com/tcl527/Excellent_engineer_works_2025/blob/master/work_1/content/terminal.C.jpg)
+- ![source1](https://github.com/tcl527/Excellent_engineer_works_2025/blob/master/work_1/content/teminal.C.jpg)
 - ![source2](https://github.com/tcl527/Excellent_engineer_works_2025/blob/master/work_1/content/terminal.P.jpg)
