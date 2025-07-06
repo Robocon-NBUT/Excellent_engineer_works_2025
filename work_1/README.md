@@ -14,3 +14,4 @@
     - `README.md`
 - `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg![微信图片_20250706142520](https://github.com/user-attachments/assets/101ea414-bb5b-4dd8-92b3-b930bdcbd3da)
 ![微信图片_20250706142717](https://github.com/user-attachments/assets/25c8a740-be3c-43ff-936d-2d4ef40cf70a)
+![微信图片_20250706142717](https://github.com/user-attachments/assets/705d5c3b-b3c5-4ae1-ab51-78959b459bdb)
