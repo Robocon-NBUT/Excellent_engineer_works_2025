@@ -12,4 +12,5 @@
     - input.txt , output.txt
     - terminal.jpg
     - `README.md`
-- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg
+- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg<img width="1483" height="762" alt="22fdde72b9db044ee965990e49772da8" src="https://github.com/user-attachments/assets/2e09839c-2e65-4e9f-b9ca-92152b4a8b76" />
+<img width="790" height="773" alt="77860dcbee0485825045ed0024b4a5e9" src="https://github.com/user-attachments/assets/089727f4-eb84-4837-bfc2-f696678919eb" />
