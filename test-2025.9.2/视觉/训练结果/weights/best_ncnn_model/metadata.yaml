@@ -1,0 +1,17 @@
+description: Ultralytics YOLO11n model trained on D:\XY-YOLO_Tools\my_yolo\yolov12_package\data.yaml
+author: Ultralytics
+date: '2025-09-02T19:23:26.679805'
+version: 8.3.63
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: dog
+args:
+  batch: 1
+  half: false
