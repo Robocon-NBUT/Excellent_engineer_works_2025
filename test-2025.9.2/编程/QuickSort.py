@@ -15,9 +15,11 @@ def QuickSort(arr,start,end):
     arr[left]=mid
     QuickSort(arr,start,left-1)
     QuickSort(arr,left+1,end)
-arr=[0]*100
-for i in range(0,100):
+
+n=int(input("请输入排序个数"))
+arr=[0]*n
+for i in range(0,n):
     arr[i]=random.randint(0,100)
-arr_end=len(arr)-1
+arr_end=n-1
 QuickSort(arr,0,arr_end)
 print(arr)
