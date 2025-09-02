@@ -1,0 +1,10 @@
+# ✅ data.yaml 文件内容如下（可直接使用）
+train: E:\yolov11\datasets\images\train
+val: E:\yolov11\datasets\images\val
+# test: ./dataset/test/images   # 如果有 test 集，可取消注释
+
+nc: 1
+
+names: [
+  'MG996R',           # 0
+]
