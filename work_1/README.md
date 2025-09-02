@@ -12,4 +12,9 @@
     - input.txt , output.txt
     - terminal.jpg
     - `README.md`
-- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg
+- `README.md`文件是markdown格式的文档，要求在文件中显示terminal.jpg<img width="1483" heigh<img width="2560" height="1380" alt="CF262CBD7A219C9F52FAEAC7C64B94D3" src="https://github.com/user-attachments/assets/48c2f9c5-de67-4658-a52a-2d616aaf61c3" />
+<img width="755" height="773" alt="68ED11272ED79BC349068088C89BFDF5" src="https://github.com/user-attachments/assets/5899d7fd-29c4-4160-9059-dfc6ed5f0a22" />
+t="762" alt="22fdde72b9db044ee965990e49772da8" src="https://github.com/user-attachments/assets/2e09839c-2e65-4e9f-b9ca-92152b4a8b76" />
+<img width="790" height="773" alt="77860dcbee0485825045ed0024b4a5e9" src="https://github.com/user-attachments/assets/089727f4-eb84-4837-bfc2-f696678919eb" />
+<img width="2560" height="1380" alt="cf262cbd7a219c9f52faeac7c64b94d3" src="https://github.com/user-attachments/assets/91b307dc-6de4-4ef5-bf47-40a3d74df348" />
+<img width="2560" height="1380" alt="cf262cbd7a219c9f52faeac7c64b94d3" src="https://github.com/user-attachments/assets/bcd0141b-839c-4ab4-9059-e18bd0bad413" />
