@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main() {
+    FILE *input_file = fopen("input.txt", "r");
+    FILE *output_file = fopen("output.txt", "w");
+    
+    int number;
+    int sum = 0;
+    int count = 0;
+    float average;
+    
+    while (fscanf(input_file, "%d", &number) == 1) {
+        sum = sum + number;  // 累加求和
+        count = count + 1;   // 计数
+    }
+    
+    average = (float)sum / count;
+    
+    fprintf(output_file, "数据总数: %d\n", count);
+    fprintf(output_file, "总和: %d\n", sum);
+    fprintf(output_file, "平均数: %.2f\n", average);
+    
+    fclose(input_file);
+    fclose(output_file);
+    
+    printf("计算完成，结果已保存到output.txt\n");
+    return 0;
+}
