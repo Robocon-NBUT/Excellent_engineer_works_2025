@@ -21,5 +21,6 @@ arr=[0]*n
 for i in range(0,n):
     arr[i]=random.randint(0,100)
 arr_end=n-1
+print(arr)
 QuickSort(arr,0,arr_end)
 print(arr)
