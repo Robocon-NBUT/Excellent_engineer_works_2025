@@ -1,0 +1,39 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "可乐",
+      "score": null,
+      "points": [
+        [
+          331.6052631578947,
+          521.4210526315788
+        ],
+        [
+          923.7105263157894,
+          521.4210526315788
+        ],
+        [
+          923.7105263157894,
+          1379.3157894736842
+        ],
+        [
+          331.6052631578947,
+          1379.3157894736842
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "图片 (31).jpg",
+  "imageData": null,
+  "imageHeight": 1706,
+  "imageWidth": 1279
+}

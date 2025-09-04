@@ -1,0 +1,5 @@
+path: . #当前目录
+train: dataset/train/images
+val: dataset/valid/images
+nc: 1
+names: ['可乐']
