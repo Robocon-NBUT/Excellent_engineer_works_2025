@@ -1,0 +1,39 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bottle",
+      "score": null,
+      "points": [
+        [
+          265.81578947368416,
+          58.26315789473681
+        ],
+        [
+          1071.078947368421,
+          58.26315789473681
+        ],
+        [
+          1071.078947368421,
+          1676.6842105263156
+        ],
+        [
+          265.81578947368416,
+          1676.6842105263156
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "微信图片_20250904180255_55_1.jpg",
+  "imageData": null,
+  "imageHeight": 1706,
+  "imageWidth": 1279
+}
