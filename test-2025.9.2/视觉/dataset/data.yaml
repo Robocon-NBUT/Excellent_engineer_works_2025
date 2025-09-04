@@ -1,0 +1,8 @@
+train: E:/yolo11/dataset/data/train  # 训练集路径
+val: E:/yolo11/dataset/data/val     # 验证集路径
+test : E:/yolo11/dataset/data/test  # 测试集路径
+
+
+nc: 1  # 类别数量
+names:
+  0: bottle
