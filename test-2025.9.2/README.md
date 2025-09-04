@@ -24,3 +24,4 @@
 ![val_batch1_labels](https://github.com/user-attachments/assets/c0de320a-adc3-4a48-95bf-53d8abc4b6a3)
 ![val_batch0_pred](https://github.com/user-attachments/assets/2ca03a15-0066-40a8-9cef-11ce9a6efb3c)
 ![val_batch0_labels](https://github.com/user-attachments/assets/56047523-2b3b-478f-8edf-22190ea0778a)
+视频链接：【MG996R舵机检测】https://www.bilibili.com/video/BV1EWaQz6EpV?vd_source=760b6733949850f828b60dc146f0c264
