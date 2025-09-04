@@ -1,0 +1,22 @@
+train: ./dataset/train   # 训练集路径
+val: ./dataset/val      # 验证集路径
+test : ./dataset/test  # 测试集路径
+
+
+nc: 15  # 类别数量
+names:
+  0: wrench
+  1: soldering_iron
+  2: electrodrill
+  3: tape_measure
+  4: screwdriver
+  5: pliers
+  6: oscillograph
+  7: multimeter
+  8: printer
+  9: keyboard
+  10: mobile_phone
+  11: mouse
+  12: headphones
+  13: monitor
+  14: speaker
