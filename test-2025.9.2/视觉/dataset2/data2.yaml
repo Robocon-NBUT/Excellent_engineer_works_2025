@@ -1,0 +1,4 @@
+train: ./train   # 训练集路径：指向dataset文件夹下的train文件夹（内含images和labels）
+val: ./valid     # 验证集路径：指向dataset文件夹下的valid文件夹（内含images和labels）
+nc: 1         # 类别数量（不含手写数字）
+names: ['phone'] 
