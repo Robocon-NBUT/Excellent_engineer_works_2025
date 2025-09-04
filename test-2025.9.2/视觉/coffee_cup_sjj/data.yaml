@@ -1,0 +1,8 @@
+train: F:/mxxl/coffee_cup_sjj/dataset/train   # 训练集路径
+val: F:/mxxl/coffee_cup_sjj/dataset/valid      # 验证集路径
+test : F:/mxxl/coffee_cup_sjj/dataset/test  # 测试集路径
+
+
+nc: 1  # 类别数量
+names:
+  0: Coffee_cup
