@@ -1,10 +1,13 @@
-# ✅ data.yaml 文件内容如下（可直接使用）
-train: E:\yolov11\datasets\images\train
-val: E:\yolov11\datasets\images\val
-# test: ./dataset/test/images   # 如果有 test 集，可取消注释
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
-nc: 1
+nc: 3
+names: ['Paper', 'Rock', 'Scissors']
 
-names: [
-  'MG996R',           # 0
-]
+roboflow:
+  workspace: roboflow-58fyf
+  project: rock-paper-scissors-sxsw
+  version: 14
+  license: Private
+  url: https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw/dataset/14
