@@ -20,8 +20,8 @@ def QuickSort(arr,start,end):  #快排
 def BubbleSort(arr):          #冒泡排序
     n=len(arr)
     for i in range(n):
-        flag=False
-        temp=len(arr)-2
+        flag=False       #外层优化
+        temp=len(arr)-1  #内层优化
         for j in range(0,temp):
             if arr[j]>arr[j+1]:
                 arr[j],arr[j+1]=arr[j+1],arr[j]
@@ -70,29 +70,31 @@ for i in range(0,n):
     arr[i]=t
     arr1[i]=t
     arr2[i]=t
-arr_end=n-1
-print(arr)
 
 start_time=time.time()
+arr_end=n-1
 QuickSort(arr,0,arr_end)
 end_time=time.time()
 quick_sort_time=end_time-start_time
+print(arr)
 print("快速排序用时:",quick_sort_time)
 
 start_time1=time.time()
 BubbleSort(arr1)
 end_time1=time.time()
 bubble_sort_time=end_time1-start_time1
+print(arr1)
 print("冒泡排序用时:",bubble_sort_time)
 
 start_time2=time.time()
 res=CountSort(arr2)
 end_time2=time.time()
 count_sort_time=end_time2-start_time2
+print(res)
 print("桶（计数）排序用时:",count_sort_time)
-
 start_time3=time.time()
-res=MergeSort(arr2)
+res1=MergeSort(arr2)
 end_time3=time.time()
 merge_sort_time=end_time3-start_time3
+print(res1)
 print("归并排序用时:",merge_sort_time)
