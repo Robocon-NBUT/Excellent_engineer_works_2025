@@ -1,0 +1,5 @@
+path: D:/yolov11/zhuogongshijeu/yolov11_dataset
+train: images/train
+val: images/val
+names: 
+  0: 锥桶  # 仅保留交通锥类别
