@@ -1,0 +1,6 @@
+# 注意：所有字段用2个空格缩进，路径用正斜杠（避免转义符问题）
+train: C:/Users/20359/Desktop/data/train  # 训练集根路径（内含images和labels）
+val: C:/Users/20359/Desktop/data/valid    # 验证集根路径（内含images和labels）
+
+nc: 1  # 类别数量（此处为1类：book）
+names: ['book']  # 类别名称（与nc数量对应）
