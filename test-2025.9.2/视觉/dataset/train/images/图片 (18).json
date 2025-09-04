@@ -1,0 +1,39 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "可乐",
+      "score": null,
+      "points": [
+        [
+          11.0,
+          573.0
+        ],
+        [
+          2048.5,
+          573.0
+        ],
+        [
+          2048.5,
+          3198.0
+        ],
+        [
+          11.0,
+          3198.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "图片 (18).jpg",
+  "imageData": null,
+  "imageHeight": 4096,
+  "imageWidth": 3072
+}
