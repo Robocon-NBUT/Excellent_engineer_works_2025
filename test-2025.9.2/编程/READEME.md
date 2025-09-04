@@ -1,0 +1,11 @@
+# 排序测试数据截图
+## python
+![alt text](./附件/PixPin_2025-09-04_22-27-20.png)   
+![alt text](./附件/PixPin_2025-09-04_22-28-18.png)
+## C/C++
+![alt text](./附件/PixPin_2025-09-04_22-31-45.png)
+![alt text](./附件/PixPin_2025-09-04_22-32-58.png)
+# 数独测试数据截图-python
+![alt text](./附件/PixPin_2025-09-04_22-23-25.png)   
+![alt text](./附件/PixPin_2025-09-04_22-24-34.png)   
+![alt text](./附件/PixPin_2025-09-04_22-25-24.png)   
