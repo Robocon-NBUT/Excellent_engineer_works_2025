@@ -1,0 +1,8 @@
+train: E:/zss/dataset/train   # 训练集路径
+val: E:/zss/dataset/valid      # 验证集路径
+test : E:/zss/dataset/test  # 测试集路径
+
+
+nc: 1  # 类别数量
+names:
+  0: orange
