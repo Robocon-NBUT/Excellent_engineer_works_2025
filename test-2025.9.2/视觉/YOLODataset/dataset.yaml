@@ -1,0 +1,7 @@
+path: \\?\D:\BaiduNetdiskDownload\001\keyboard\YOLODataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+    0: keyboard
