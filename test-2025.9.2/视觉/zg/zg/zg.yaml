@@ -1,0 +1,28 @@
+path: #  ultralytics-main/datasets/coco8/data.yaml   #表示数据集根路径，用于构建相对路径（旧用法）
+
+train: E:/Desktop/ultralytics-main/datasets/zg/images/train  #这是 训练图像的路径。
+val: E:/Desktop/ultralytics-main/datasets/zg/images/val  #验证集图像的路径
+
+nc: 12                      #表示你总共的 目标类别数量（number of classes）。这个值必须与你的 names 列表长度一致，否则训练会出错。
+
+#names: ['YiBiao', 'DengON', 'DengOFF']
+
+#names : [
+#    "wrench", "soldering_iron", "electrodrill", "tape_measure", "screwdriver",
+#    "pliers", "oscillograph", "multimeter", "printer", "keyboard",
+#    "mobile_phone", "mouse", "headphones", "monitor", "speaker"
+#]
+
+names:
+  0: bed
+  1: sofa
+  2: chair
+  3: table
+  4: lamp
+  5: tv
+  6: laptop
+  7: wardrobe
+  8: window
+  9: door
+  10: potted plant
+  11: photo frame
