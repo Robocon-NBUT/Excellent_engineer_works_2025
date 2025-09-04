@@ -9,4 +9,5 @@ if __name__ == "__main__":
     n = int(input().strip())
     nums = list(map(int, input().strip().split()))
     sorted_nums = bubble_sort(nums)
-    print(" ".join(map(str, sorted_nums)
+    print(" ".join(map(str, sorted_nums)))
+
