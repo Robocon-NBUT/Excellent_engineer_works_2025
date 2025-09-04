@@ -1,9 +1,0 @@
-排序py
-
-def paixu(n,a): a=list(map(int,a.split())) for i in range(n): for j in range(o,n- i- 1): if a[j]<a[j+1]: temp=a[j] a[j]=a[j+1] a[j+1]=temp return a n=int(input("请输入序列长度：")) data=input("输入序列：") data2=paixu(n,data) print("排序后的序列：", ".join(map(str, data2)))
-
->> %Run '排序.py'
-
-请输入序列长度：5输入序列：645 435 634 45 345排序后的序列：645 634 435 345 45
-
->>>
