@@ -1,0 +1,39 @@
+{
+  "version": "3.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "keyboard",
+      "score": null,
+      "points": [
+        [
+          108.71428571428575,
+          265.2142857142857
+        ],
+        [
+          1508.7142857142858,
+          265.2142857142857
+        ],
+        [
+          1508.7142857142858,
+          793.7857142857143
+        ],
+        [
+          108.71428571428575,
+          793.7857142857143
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "微信图片_20250904143456_126_2.jpg",
+  "imageData": null,
+  "imageHeight": 1279,
+  "imageWidth": 1706
+}
