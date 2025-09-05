@@ -1,0 +1,28 @@
+#include <stdio.h>
+#define MAXN 100000
+int a[MAXN];
+void quick_sort_desc(int left, int right) {
+    if (left >= right) return;              
+    int i = left, j = right;
+    int pivot = a[(left + right) / 2];
+    while (i <= j) {                        
+        while (a[i] > pivot) ++i;           
+        while (a[j] < pivot) --j;
+        if (i <= j) {
+            int tmp = a[i]; a[i] = a[j]; a[j] = tmp;
+            ++i; --j;
+        }
+    }
+    quick_sort_desc(left, j);              
+    quick_sort_desc(i, right);
+}
+
+int main() {
+    int n;
+    if (scanf("%d", &n) != 1) return 0;
+    for (int i = 0; i < n; ++i) scanf("%d", &a[i]);
+    quick_sort_desc(0, n - 1);              
+    for (int i = 0; i < n; ++i)
+        printf("%d%c", a[i], i == n - 1 ? '\n' : ' ');
+    return 0;
+}
